@@ -1,2 +1,2 @@
-Git Bash Assignment
+Git Assignment
 HTML for GIT Branching
