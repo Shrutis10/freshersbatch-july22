@@ -33,3 +33,5 @@ m1 = multi()
 m2 = multi()
 console.log(m1)
 console.log(m2)
+
+console.log("Hello")
