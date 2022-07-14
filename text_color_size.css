@@ -1,0 +1,19 @@
+body{
+    font-size: 10px;
+}
+#p1
+{
+    color: red;
+    font-size: 32px;
+}
+
+#p2
+{
+    color: rgba(255, 0, 0, 0.4);
+    font-size: 2rm;
+}
+
+h1
+{
+    color: #aaabbb;    
+}
